@@ -1,8 +1,8 @@
 
 # Repositória da P2-B do Grupo 7 
-Respostas estao no script .m disponibilziado.
+Respostas da prova estao no script .m disponibilziado.
 
-Algumas imagens vão aqui caso ocorra algum problema de formatação
+Algumas imagens vão aqui caso ocorra algum problema de formatação.
 
 Figura 1
 
