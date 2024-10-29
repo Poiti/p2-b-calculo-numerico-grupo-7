@@ -70,7 +70,7 @@ set(gca, 'XTick', 1:length(variableNames), 'XTickLabel', variableNames);
 set(gca, 'YTick', 1:length(variableNames), 'YTickLabel', variableNames);
 
 % Configurar o gráfico
-title('Heatmap com Valores de Correlação, r^2 e Sr');
+title('Heatmap com Valores de Correlação, r^2 em vermelho e Sr em azul');
 
 display('')
 display('Observar Figure 1')
